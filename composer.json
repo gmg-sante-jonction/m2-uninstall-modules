@@ -8,7 +8,6 @@
     "license": [
         "OSL-3.0"
     ],
-    minimum - stability
     "replace": {
         "amzn/amazon-pay-and-login-magento-2-module": "*",
         "amzn/amazon-pay-and-login-with-amazon-core-module": "*",
