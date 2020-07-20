@@ -1,7 +1,6 @@
 {
 	"name": "gmg-sante-jonction/m2-uninstall-modules",
 	"description": "Remove various packages from Magento.",
-	"type": "magento2-module",
 	"require": {
 		"magento/product-community-edition": "^2.3.5"
 	},
